@@ -1,0 +1,79 @@
+Institution LogoIK
+
+
+Dashboard
+
+Tasks
+
+Notes
+
+Study
+
+Courses
+
+Calendar
+
+Inbox
+
+Help
+
+
+regdocs
+
+Honors Program
+
+Library Resources
+
+CSCI-2770-A.2026SP
+
+CSCI-3500-A.2026SP
+
+CSCI-3920-A.2026SP
+
+CSCI-4400-A.2026SP
+
+FINC-4650-A.2026SP
+
+CSCI-4400-A.2026SPAssignmentsWeek 03 Lab
+
+2026 Spring
+Home
+Announcements
+Grades
+People
+Submitting Grades Tool
+PaperScorer
+Edfinity
+Microsoft Education
+Simple Syllabus
+Week 03 Lab
+Week 03 Lab
+Due: Wed, 4 Feb 2026 23:59Due: Wed, 4 Feb 2026 23:59
+Ungraded, 10 Possible Points
+10 Points Possible
+Attempt
+Attempt 1
+
+In Progress
+NEXT UP: Submit assignment
+
+Unlimited Attempts Allowed
+Course Objectives:
+Write multi-threaded applications, and demonstrate an understanding of the related issues.
+Learning Objectives:
+Practice writing threads
+Practice file I/O
+Practice praying that your application works debugging multi-threaded applications
+ 
+
+Instructions:
+Write a thread class that stores two file names as instance data.  The names will indicate source and destination files.  The run method should copy the contents of the source file to the destination file. When the copy process is finished, print an appropriate message.
+
+Next, write a driver that creates at least three of the threads, using file names you provide.  After all the threads have been created, start all of them (we want the copies to be started simultaneously). Print a message from main, indicating that the copies are in progress.
+
+ 
+
+BONUS INSTRUCTIONS: (for the smarter members of the class)
+After all the copy threads have finished, print a message indicating that the copies are complete.
+
+Choose a submission type

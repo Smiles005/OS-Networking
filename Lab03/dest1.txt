@@ -1,0 +1,93 @@
+klie7829@BC-Lab-CS16 2026 6 Semester Spring % cd OS&Networking/Lab02
+[1] 41485
+cd: no such file or directory: OS
+[1]  + exit 1     cd OS
+zsh: no such file or directory: Networking/Lab02
+klie7829@BC-Lab-CS16 2026 6 Semester Spring % cd OS\&Networking 
+klie7829@BC-Lab-CS16 OS&Networking % cd Lab02
+klie7829@BC-Lab-CS16 Lab02 % javac *.java
+Hi.java:3: error: package csci1140 does not exist
+import csci1140.*;
+       ^
+Hi.java:11: error: cannot access KeyboardReader
+        KeyboardReader k = new KeyboardReader();
+        ^
+  bad class file: ./KeyboardReader.class
+    class file contains wrong class: csci1140.KeyboardReader
+    Please remove or make sure it appears in the correct subdirectory of the classpath.
+Note: Hi.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+2 errors
+klie7829@BC-Lab-CS16 Lab02 % javac *.java
+Hi.java:11: error: cannot access KeyboardReader
+        KeyboardReader k = new KeyboardReader();
+        ^
+  bad class file: ./KeyboardReader.class
+    class file contains wrong class: csci1140.KeyboardReader
+    Please remove or make sure it appears in the correct subdirectory of the classpath.
+Note: Hi.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+1 error
+klie7829@BC-Lab-CS16 Lab02 % javac *.java 
+Hi.java:3: error: package csci1140 does not exist
+import csci1140.*;
+       ^
+Hi.java:11: error: cannot access KeyboardReader
+        KeyboardReader k = new KeyboardReader();
+        ^
+  bad class file: ./KeyboardReader.class
+    class file contains wrong class: csci1140.KeyboardReader
+    Please remove or make sure it appears in the correct subdirectory of the classpath.
+Note: Hi.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+2 errors
+klie7829@BC-Lab-CS16 Lab02 % javac *.java
+Note: Hi.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+klie7829@BC-Lab-CS16 Lab02 % javac *.java
+Note: Hi.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+klie7829@BC-Lab-CS16 Lab02 % javac *.java -Xlint
+Hi.java:12: warning: [static] static method should be qualified by type name, KeyboardReader, instead of by an expression
+        String userInput1 = k.readLine("Please enter the URL: ");
+                             ^
+Hi.java:17: warning: [deprecation] URL(String) in URL has been deprecated
+            URL url = new URL(userInput1);
+                      ^
+2 warnings
+klie7829@BC-Lab-CS16 Lab02 % javac *.java       
+Note: Hi.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+klie7829@BC-Lab-CS16 Lab02 % java hi
+Error: Could not find or load main class hi
+Caused by: java.lang.NoClassDefFoundError: hi (wrong name: Hi)
+klie7829@BC-Lab-CS16 Lab02 % java Hi
+Please enter the URL: 
+google.com
+You entered: google.com
+Invalid URL. Please try again.
+Please enter the URL: 
+www.google.com
+You entered: www.google.com
+Invalid URL. Please try again.
+Please enter the URL: 
+https://www.larstornoe.com/
+You entered: https://www.larstornoe.com/
+Contents saved to output.txt
+klie7829@BC-Lab-CS16 Lab02 % java Hi              
+Please enter the URL: 
+https://www.bedow.se/
+You entered: https://www.bedow.se/
+Contents saved to output.txt
+klie7829@BC-Lab-CS16 Lab02 % javac *.java
+Note: Hi.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+klie7829@BC-Lab-CS16 Lab02 % java Hi     
+Please enter the URL: 
+https://wearecoandco.com/
+You entered: https://wearecoandco.com/
+Contents saved to output.txt
+klie7829@BC-Lab-CS16 Lab02 % 
+ *  History restored 
+
+klie7829@BC-Lab-CS16 Lab02 % 
