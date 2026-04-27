@@ -1,0 +1,107 @@
+Picked up JAVA_TOOL_OPTIONS: -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8
+MelodyInboxEdgeAutomation.java:2: error: package org.openqa.selenium.edge does not exist
+import org.openqa.selenium.edge.EdgeDriver;
+                               ^
+MelodyInboxEdgeAutomation.java:3: error: package org.openqa.selenium.edge does not exist     
+import org.openqa.selenium.edge.EdgeOptions;
+                               ^
+MelodyInboxEdgeAutomation.java:4: error: package org.openqa.selenium.support.ui does not exist
+import org.openqa.selenium.support.ui.ExpectedConditions;
+                                     ^
+MelodyInboxEdgeAutomation.java:5: error: package org.openqa.selenium.support.ui does not exist
+import org.openqa.selenium.support.ui.WebDriverWait;
+                                     ^
+MelodyInboxEdgeAutomation.java:1: error: package org.openqa.selenium does not exist
+import org.openqa.selenium.*;
+                 ^
+MelodyInboxEdgeAutomation.java:22: error: cannot find symbol
+        EdgeOptions options = new EdgeOptions();
+        ^
+  symbol:   class EdgeOptions
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:22: error: cannot find symbol
+        EdgeOptions options = new EdgeOptions();
+                                  ^
+  symbol:   class EdgeOptions
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:35: error: cannot find symbol
+        WebDriver driver = new EdgeDriver(options);
+        ^
+  symbol:   class WebDriver
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:35: error: cannot find symbol
+        WebDriver driver = new EdgeDriver(options);
+                               ^
+  symbol:   class EdgeDriver
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:36: error: cannot find symbol
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+        ^
+  symbol:   class WebDriverWait
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:36: error: cannot find symbol
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+                                 ^
+  symbol:   class WebDriverWait
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:50: error: cannot find symbol
+                    WebElement searchBox = wait.until(
+                    ^
+  symbol:   class WebElement
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:51: error: cannot find symbol
+                            ExpectedConditions.visibilityOfElementLocated(By.cssSelector("input[type='search']"))
+                            ^
+  symbol:   variable ExpectedConditions
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:51: error: cannot find symbol
+                            ExpectedConditions.visibilityOfElementLocated(By.cssSelector("input[type='search']"))
+                                                                          ^
+  symbol:   variable By
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:57: error: cannot find symbol
+                    WebElement searchBtn = wait.until(
+                    ^
+  symbol:   class WebElement
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:58: error: cannot find symbol
+                            ExpectedConditions.elementToBeClickable(By.cssSelector("button[type='submit']"))
+                            ^
+  symbol:   variable ExpectedConditions
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:58: error: cannot find symbol
+                            ExpectedConditions.elementToBeClickable(By.cssSelector("button[type='submit']"))
+                                                                    ^
+  symbol:   variable By
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:63: error: cannot find symbol
+                    WebElement downloadBtn = wait.until(
+                    ^
+  symbol:   class WebElement
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:64: error: cannot find symbol
+                            ExpectedConditions.elementToBeClickable(By.cssSelector(".download-btn"))
+                            ^
+  symbol:   variable ExpectedConditions
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:64: error: cannot find symbol
+                            ExpectedConditions.elementToBeClickable(By.cssSelector(".download-btn"))
+                                                                    ^
+  symbol:   variable By
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:69: error: cannot find symbol
+                    WebElement convertBtn = wait.until(
+                    ^
+  symbol:   class WebElement
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:70: error: cannot find symbol
+                            ExpectedConditions.elementToBeClickable(By.cssSelector(".convert-btn"))
+                            ^
+  symbol:   variable ExpectedConditions
+  location: class MelodyInboxEdgeAutomation
+MelodyInboxEdgeAutomation.java:70: error: cannot find symbol
+                            ExpectedConditions.elementToBeClickable(By.cssSelector(".convert-btn"))
+                                                                    ^
+  symbol:   variable By
+  location: class MelodyInboxEdgeAutomation
+23 errors
