@@ -1,0 +1,788 @@
+Available roots:
+ - C:\
+Enter the path of the selected root: 
+
+Current directory: c:\
+
+Subdirectories:
+ - $Recycle.Bin
+ - Apps
+ - Config.Msi
+ - dell
+ - Documents and Settings
+ - Drivers
+ - e-logo
+ - iMobie
+ - iMobieBackup
+ - inetpub
+ - OneDriveTemp
+ - Other
+ - PerfLogs
+ - Program Files
+ - Program Files (x86)
+ - ProgramData
+ - Recovery
+ - System Volume Information
+ - Temp
+ - Users
+ - VirtualMachines
+ - Wepa
+ - Windows
+ - XboxGames
+
+Executable files:
+ * .GamingRoot
+ * appverifUI.dll
+ * bootTel.dat
+ * dell.sdr
+ * DumpStack.log
+ * vfcompat.dll
+
+Options:
+ 1. Enter a subdirectory name
+ 2. Go back one level
+ 3. Execute a file
+ 4. Find all PDFs in this directory and subdirectories
+ 5. Follow a folder path
+ 6. Quit
+Choose an option: 
+Enter subdirectory name: 
+
+Current directory: c:\Users
+
+Subdirectories:
+ - Administrator
+ - All Users
+ - Default
+ - Default User
+ - isabe
+ - Public
+ - WsiAccount
+
+Executable files:
+ * desktop.ini
+
+Options:
+ 1. Enter a subdirectory name
+ 2. Go back one level
+ 3. Execute a file
+ 4. Find all PDFs in this directory and subdirectories
+ 5. Follow a folder path
+ 6. Quit
+Choose an option: 
+Enter subdirectory name: 
+
+Current directory: c:\Users\isabe
+
+Subdirectories:
+ - .cache
+ - .copilot
+ - .dotnet
+ - .ghcp-appmod
+ - .ghcp-appmod-java
+ - .lemminx
+ - .m2
+ - .nbi
+ - .nuget
+ - .sonarlint
+ - .sts4
+ - .templateengine
+ - .VirtualBox
+ - .vscode
+ - .vscode-R
+ - AnytimeLogbooks.com
+ - AppData
+ - Apple
+ - Application Data
+ - Contacts
+ - Cookies
+ - CSCI 3100
+ - Documents
+ - Downloads
+ - Favorites
+ - Links
+ - Local Settings
+ - My Documents
+ - NetHood
+ - OneDrive
+ - OneDrive - Benedictine College
+ - OneDrive - University of Missouri
+ - PrintHood
+ - Recent
+ - Saved Games
+ - Searches
+ - SendTo
+ - source
+ - Start Menu
+ - Templates
+
+Executable files:
+ * .git-for-windows-updater
+ * .gitconfig
+ * NTUSER.DAT
+ * ntuser.dat.LOG1
+ * ntuser.dat.LOG2
+ * NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf
+ * NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms
+ * NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms
+ * ntuser.ini
+
+Options:
+ 1. Enter a subdirectory name
+ 2. Go back one level
+ 3. Execute a file
+ 4. Find all PDFs in this directory and subdirectories
+ 5. Follow a folder path
+ 6. Quit
+Choose an option: 
+Enter subdirectory name: 
+
+Current directory: c:\Users\isabe\Downloads
+
+Subdirectories:
+ - AirportDBExport.sql
+ - BCK41GP01
+ - BCK41GP02
+ - betterercanvas-main
+ - CSCI-2560 Extra Automata Material complete
+ - DRM Free Music
+ - iCloud Photos
+ - iCloud Photos (1)
+ - iCloud Photos (3)
+ - iCloud Photos (4)
+ - iCloud Photos (5)
+ - iCloud Photos (6)
+ - isabel.kliethermes@gmail.com.ical
+ - MicrosoftEdgeDropFiles
+ - OH@BC
+ - Songs For Car
+ - Sorts
+ - Speed-Test-main
+
+Executable files:
+ * (0SQ57)-ApplicationDocuments.zip
+ * 1 2 - Introduction to Geography.pptx
+ * 1098-T_2025.pdf
+ * 2025 Room Draw Numbers Numerical.pdf
+ * 2025 Room Draw Numbers Numerical.xlsx
+ * 2026 Room Draw Numbers Numerical.pdf
+ * 3 4 - Techniques of Geographic Analysis.pptx
+ * 33 Herb Cards.pdf
+ * 5 6 - Introduction to World Regional Geography WTC FALL 2024.pptx
+ * 50_Remedies_for_Everyday_Health.pdf
+ * 51056413-beae-461e-b98e-76f48fe7e271.jpg
+ * 58.pdf
+ * a review sheet 2.docx
+ * action and agency in AI.pdf
+ * AirportDBExport.sql.zip
+ * AJClassicInstaller.exe
+ * Anslem.pdf
+ * apache-maven-3.9.12-bin.zip
+ * Apache-NetBeans-27.exe
+ * aquinas paper topic.docx
+ * Astro_W15_LAB_12_Human_Exploration_blank.xlsx
+ * ASUS_MB_series_driver_Win7_8.1_10_11.exe.zip
+ * Bank of England - Money Creation in the Modern Economy.pdf
+ * BC2025_W2.pdf
+ * benedictine-college-student-handbook.pdf
+ * Benefit Summary Letter.pdf
+ * betterercanvas-main.zip
+ * better_canvas-5.7.5.xpi
+ * Big_Health___Nutrition_Bundle_Mystery_Box.pdf
+ * BinarySearchTree.java
+ * bomgar-rep-installer.exe
+ * brooks_64bit.exe
+ * Chapter 11 Solutions_No Formulae.xlsm
+ * Chapter 11 Worksheets.xlsm
+ * Chapter 12 Solutions_No Formulae.xlsm
+ * Chapter 12 Worksheets.xlsm
+ * Chapter 2 and 3 and 5 Worksheets.xlsx
+ * Chapter 2 Problem 3.xlsx
+ * Chapter 2 Solutions_No Formulae.xlsx
+ * Chapter 3 Solutions_No Formulae.xlsx
+ * Chapter 4 Solutions_No Formulae.xlsx
+ * Chapter 4 Worksheets.xlsx
+ * Chapter 5 Solutions_No Formulas.xlsx
+ * Chapter 5 Worksheets with Iteration.xlsm
+ * Chapter 7 Solutions_No Formulae.xlsx
+ * Chapter 7 Worksheets.xlsx
+ * Chapter 8 Solutions_No Formulas.xlsm
+ * Chapter 8 Worksheets.xlsx
+ * Chapter 9 Solutions_No Formulae.xlsm
+ * Chapter 9 Worksheets.xlsm
+ * Chapter04A_Slides.pdf
+ * Chapter04B_Slides.pdf
+ * Chapter_1__export.zip
+ * cijpfdp_2108b.exe
+ * cisco-secure-client-win-5.0.02075-core-vpn-webdeploy-k9.msi
+ * CS3570_Exam2_Review_Booklet.pdf
+ * CSCI-1010 Slides 2025-09-22.pptx
+ * CSCI-2560 Extra Automata Material complete.zip
+ * CSCI-2560 grade template.xlsx
+ * CSCI-3500 Exam 1 Handout.pdf
+ * CSCI-3500 Exam 1 Review.pdf
+ * CSCI-3500 Homework 9 book.pdf
+ * CSCI-3500 Homework 9.pdf
+ * CSCI-3500 Solutions to In-Class Problems.pptx
+ * CSCI-3570 Exam 1 Review corrected.pdf
+ * CSCI-3570 Exam 2 Review.pdf
+ * CSCI-3570 Exam 3 Review.pdf
+ * CSCI-3570 Homework 2.pdf
+ * CSCI-3570 Homework 5-1.pdf
+ * CSCI-3570 Slides 2025-09-03.pptx
+ * CSCI-3570 Slides 2025-10-13.pptx
+ * CSCI4200HW1solutions.pdf
+ * CSCI4200HW2solutions.pdf
+ * CSIKC_InternshipTrip_Flyer V4 (2).pdf
+ * CVLOX Historical Data.csv
+ * DailySchedule_8.5x11_300ppi.pdf
+ * decode1.c
+ * decode1.s
+ * desktop.ini
+ * EAA in class.xlsx
+ * edgedriver_win64.zip
+ * Exam2Book.pdf
+ * Fall 2025 Spring 2026 (1).zip
+ * Fall 2025 Spring 2026.zip
+ * Fergusson - When Money Dies (short).pdf
+ * ffmpeg-8.0.1-essentials_build.zip
+ * Financial Analysis with Microsoft Excel 9th Edition – PDF ebook.pdf
+ * FINC 4650 Final Exam (Template No Formulae).xlsx
+ * FNILX Historical Data.csv
+ * FormattedAnswers.txt
+ * Fw_ Spring Career Expo.zip
+ * GEOG 1303 ACTIVITY SELECTOR FORM.docx
+ * GEOG 1303 REGION STATE INFO LOG.xlsx
+ * GLOBAL MAP.gif
+ * GradesDB.sql
+ * HardComputerCaseReturnLabel.pdf
+ * Healthy_Herbs_and_Their_Benefits.pdf
+ * Herbal Healing Handbook.pdf
+ * Herbal_Healing___Plant_Study_Workbook.pdf
+ * Herbs_and_Essential_Oils_Journal_(1).pdf
+ * HippaCoC.pdf
+ * Honors Project Presentation Guidelines.docx
+ * Honors Project Status Form - Due Nov. 15th of Junior Year (1).docx
+ * honors scholarship form- current.docx
+ * Hulsmann - Ethics of Money Production.pdf
+ * HW 4 Assumptions.docx
+ * HW 5 key.xlsx
+ * hw5.txt
+ * hw8.pdf
+ * iCloud Photos (1).zip
+ * iCloud Photos (2).zip
+ * iCloud Photos (3).zip
+ * iCloud Photos (4).zip
+ * iCloud Photos (5).zip
+ * iCloud Photos (6).zip
+ * iCloud Photos.zip
+ * IMG_0822.JPEG
+ * IMG_4791.JPEG
+ * IMG_7104.JPEG
+ * InstallationLog.txt
+ * Internet connection monitoring _ ICMDellDM3.xlsx
+ * Internet connection monitoring _ ICMDellPM2.xlsx
+ * Internet connection monitoring _ ICMDellPM3.xlsx
+ * Internet_connection_log_ICM.csv
+ * Isabel Kliethermes - Referral Leter.pdf
+ * isabel.kliethermes@gmail.com.ical.zip
+ * ITHIPPA.pdf
+ * jre-8u461-windows-x64.exe
+ * Kliethermes_Isabel_2123994_1_15_2026.pdf
+ * Kliethermes_Isabel_2123994_1_22_2025.pdf
+ * Kliethermes_Isabel_2123994_3_3_2026.pdf
+ * Kliethermes_Isabel_2123994_7_14_2025.pdf
+ * Kliethermes_Isabel_2123994_9_15_2025.pdf
+ * Kliethermes_Isabel_2123994_9_5_2025.pdf
+ * lab2 (1).c
+ * lab2.c
+ * lab3.zip
+ * lab4.zip
+ * lab5.zip
+ * lab8.zip
+ * lab9.zip
+ * Letter of Reference Isabel.pdf
+ * Letter.pdf
+ * Life Reader - K. M. Shea.epub
+ * LPP Manager - Job Description.docx
+ * magic_todo (1).goblin
+ * Malkiel - A Random Walk Down Wall Street.pdf
+ * map-of-viking-exploration-8th-11th-century-14067.png
+ * Master Sheet for Class Project #1 - Spring 2025-3.xlsx
+ * Master Sheet for Class Project #2 - Spring 2025 - Updated.xlsx
+ * Master Sheet for Class Project #2 - Spring 2025.xlsx
+ * McCall - The Church and the Usurer (Complete) (1).pdf
+ * McCall - The Church and the Usurer (Complete).pdf
+ * Media (1).jpg
+ * Media (2).jpg
+ * Media (3).jpg
+ * Media (4).jpg
+ * Media.jpeg
+ * Media.jpg
+ * Medicinal_Herbs_Cheat_Sheet.pdf
+ * Memo #5 - Bond Ladder.xlsx
+ * Memo #5 Instructions - Bond Selections-1.pdf
+ * Memo #5 Sample COSTCO Bond Page.pdf
+ * Memo #9 Instructions - Fitness Manual.pdf
+ * mig_-win-3_6_4a-ea31_2.exe
+ * mp68-win-mx920-1_01-ea32_2.exe
+ * MS-102_ Implementing a Microsoft 365 Tenant.pdf
+ * MS-102_ Managing Users & Groups.pdf
+ * msys2-x86_64-20241208.exe
+ * My Awards - Benedictine College Student Application.pdf
+ * My Awards - Benedictine College Student Application2324.pdf
+ * My Awards - Benedictine College Student Application2425.pdf
+ * mysql-connector-j-9.5.0.zip
+ * mysql-workbench-community-8.0.43-winx64.msi
+ * Natural Healing Handbook.pdf
+ * Network Mapping Assignment Drawing Student.pptx
+ * Norse.jpg
+ * Operating System Concepts Essentials, 2nd Edition.pdf
+ * Oresme - De Moneta only - English - New Print Copy.pdf
+ * Origami PowerPoint PDF.docx
+ * Origami PowerPoint PDF.pdf
+ * original-E4082457-DB4F-4017-B315-426C6A726AF5.jpeg
+ * pawsom.png
+ * pearson.pdf
+ * Peer Group and growth rates.xlsx
+ * Photos-1-001 (1).zip
+ * Photos-1-001 (2).zip
+ * Photos-1-001.zip
+ * Print_bunny.pdf
+ * Profile.pdf
+ * Project #2 Instructions.pdf
+ * ProtonVPN_v4.3.1_x64.exe
+ * QRCode for Sticker Submissions.png
+ * Reader - Hulsmann - Ethics of Money Production - Spring 2025 - PDF Copy.pdf
+ * Resume Template 2.docx
+ * Re_ Interest in the Wealth Management Position.eml
+ * RMILab.zip
+ * rogerssticker.jpg
+ * roomandboard2027.pdf
+ * Rothbard - Mystery of Banking (VI-VII).pdf
+ * RStudio-2026.01.2-418.exe
+ * S26 Master Expo List.pdf
+ * sakila-db.zip
+ * Screenshot_11-3-2025_12234_finance.yahoo.com.jpeg
+ * selenium-java-4.40.0.zip
+ * Send_Flowers.zip
+ * Signals Quiz Student.docx
+ * SlideSet1 CorporateFall25.pptx
+ * Sorts.mp4
+ * Speed-Test-main.zip
+ * SQLiteStudio-3.4.17-windows-x64-installer.exe
+ * St. Patrick (1).png
+ * State Shape Info PPT.pptx
+ * sticker (1).png
+ * sticker.png
+ * StickerOrderSummary52511060005.pdf
+ * Superstore.csv
+ * SupportAssistInstaller.exe
+ * table_data.xlsx
+ * Temtransscript.png
+ * Test 1 Fall23.docx
+ * Test 1 Fall24.docx
+ * Testing.csv
+ * THCGX Historical Data.csv
+ * The Honors Project Proposal.pdf
+ * thorn1099B2025.pdf
+ * UM2025_W2.pdf
+ * UN GEOSCHEME STATES SORTED.xlsx
+ * Untitled presentation.pptx
+ * Updated Club list for 2025 - Sheet1.pdf
+ * VA Enrollment Form (1).pdf
+ * VA Enrollment Form.pdf
+ * Vikings - SlidesforEducation.pptx
+ * VirtualBox-7.2.0-170228-Win.exe
+ * vlc-3.0.23-win64.exe
+ * VWALX Historical Data.csv
+ * WeeklyMealPlanning_8.5x11.pdf
+ * wepa_Print_App.x64.msi
+ * Werner - Can Banks Create Money out of Nothing..pdf
+ * Wheat Letter Rise Day 3_18_'26 (1).pdf
+ * xp68-win-mx920-5_65-ejs.exe
+ * _Form 108 - Application For Missouri Title and License.pdf
+ * ~$Chapter 2 Solutions_No Formulae.xlsx
+ * ~$CSCI-3500 Solutions to In-Class Problems.pptx
+ * ~$EAA in class.xlsx
+ * ~$st 1 Fall24.docx
+
+Options:
+ 1. Enter a subdirectory name
+ 2. Go back one level
+ 3. Execute a file
+ 4. Find all PDFs in this directory and subdirectories
+ 5. Follow a folder path
+ 6. Quit
+Choose an option: 
+
+Searching for PDFs under: c:\Users\isabe\Downloads
+    CSCI-2560 Extra Automata Material complete  (depth 1)
+        CSCI-2560 Extra Automata Material part 1.pdf  (depth 2)
+        CSCI-2560 Extra Automata Material part 2.pdf  (depth 2)
+        CSCI-2560 Extra Automata Material part 3.pdf  (depth 2)
+Downloads  (depth 0)
+    1098-T_2025.pdf  (depth 1)
+    2025 Room Draw Numbers Numerical.pdf  (depth 1)
+    2026 Room Draw Numbers Numerical.pdf  (depth 1)
+    33 Herb Cards.pdf  (depth 1)
+    50_Remedies_for_Everyday_Health.pdf  (depth 1)
+    58.pdf  (depth 1)
+    action and agency in AI.pdf  (depth 1)
+    Anslem.pdf  (depth 1)
+    Bank of England - Money Creation in the Modern Economy.pdf  (depth 1)
+    BC2025_W2.pdf  (depth 1)
+    benedictine-college-student-handbook.pdf  (depth 1)
+    Benefit Summary Letter.pdf  (depth 1)
+    Big_Health___Nutrition_Bundle_Mystery_Box.pdf  (depth 1)
+    Chapter04A_Slides.pdf  (depth 1)
+    Chapter04B_Slides.pdf  (depth 1)
+    CS3570_Exam2_Review_Booklet.pdf  (depth 1)
+    CSCI-3500 Exam 1 Handout.pdf  (depth 1)
+    CSCI-3500 Exam 1 Review.pdf  (depth 1)
+    CSCI-3500 Homework 9 book.pdf  (depth 1)
+    CSCI-3500 Homework 9.pdf  (depth 1)
+    CSCI-3570 Exam 1 Review corrected.pdf  (depth 1)
+    CSCI-3570 Exam 2 Review.pdf  (depth 1)
+    CSCI-3570 Exam 3 Review.pdf  (depth 1)
+    CSCI-3570 Homework 2.pdf  (depth 1)
+    CSCI-3570 Homework 5-1.pdf  (depth 1)
+    CSCI4200HW1solutions.pdf  (depth 1)
+    CSCI4200HW2solutions.pdf  (depth 1)
+    CSIKC_InternshipTrip_Flyer V4 (2).pdf  (depth 1)
+    DailySchedule_8.5x11_300ppi.pdf  (depth 1)
+    Exam2Book.pdf  (depth 1)
+    Fergusson - When Money Dies (short).pdf  (depth 1)
+    Financial Analysis with Microsoft Excel 9th Edition – PDF ebook.pdf  (depth 1)
+    HardComputerCaseReturnLabel.pdf  (depth 1)
+    Healthy_Herbs_and_Their_Benefits.pdf  (depth 1)
+    Herbal Healing Handbook.pdf  (depth 1)
+    Herbal_Healing___Plant_Study_Workbook.pdf  (depth 1)
+    Herbs_and_Essential_Oils_Journal_(1).pdf  (depth 1)
+    HippaCoC.pdf  (depth 1)
+    Hulsmann - Ethics of Money Production.pdf  (depth 1)
+    hw8.pdf  (depth 1)
+    Isabel Kliethermes - Referral Leter.pdf  (depth 1)
+    ITHIPPA.pdf  (depth 1)
+    Kliethermes_Isabel_2123994_1_15_2026.pdf  (depth 1)
+    Kliethermes_Isabel_2123994_1_22_2025.pdf  (depth 1)
+    Kliethermes_Isabel_2123994_3_3_2026.pdf  (depth 1)
+    Kliethermes_Isabel_2123994_7_14_2025.pdf  (depth 1)
+    Kliethermes_Isabel_2123994_9_15_2025.pdf  (depth 1)
+    Kliethermes_Isabel_2123994_9_5_2025.pdf  (depth 1)
+    Letter of Reference Isabel.pdf  (depth 1)
+    Letter.pdf  (depth 1)
+    Malkiel - A Random Walk Down Wall Street.pdf  (depth 1)
+    McCall - The Church and the Usurer (Complete) (1).pdf  (depth 1)
+    McCall - The Church and the Usurer (Complete).pdf  (depth 1)
+    Medicinal_Herbs_Cheat_Sheet.pdf  (depth 1)
+    Memo #5 Instructions - Bond Selections-1.pdf  (depth 1)
+    Memo #5 Sample COSTCO Bond Page.pdf  (depth 1)
+    Memo #9 Instructions - Fitness Manual.pdf  (depth 1)
+    MS-102_ Implementing a Microsoft 365 Tenant.pdf  (depth 1)
+    MS-102_ Managing Users & Groups.pdf  (depth 1)
+    My Awards - Benedictine College Student Application.pdf  (depth 1)
+    My Awards - Benedictine College Student Application2324.pdf  (depth 1)
+    My Awards - Benedictine College Student Application2425.pdf  (depth 1)
+    Natural Healing Handbook.pdf  (depth 1)
+    Operating System Concepts Essentials, 2nd Edition.pdf  (depth 1)
+    Oresme - De Moneta only - English - New Print Copy.pdf  (depth 1)
+    Origami PowerPoint PDF.pdf  (depth 1)
+    pearson.pdf  (depth 1)
+    Print_bunny.pdf  (depth 1)
+    Profile.pdf  (depth 1)
+    Project #2 Instructions.pdf  (depth 1)
+    Reader - Hulsmann - Ethics of Money Production - Spring 2025 - PDF Copy.pdf  (depth 1)
+    roomandboard2027.pdf  (depth 1)
+    Rothbard - Mystery of Banking (VI-VII).pdf  (depth 1)
+    S26 Master Expo List.pdf  (depth 1)
+    StickerOrderSummary52511060005.pdf  (depth 1)
+    The Honors Project Proposal.pdf  (depth 1)
+    thorn1099B2025.pdf  (depth 1)
+    UM2025_W2.pdf  (depth 1)
+    Updated Club list for 2025 - Sheet1.pdf  (depth 1)
+    VA Enrollment Form (1).pdf  (depth 1)
+    VA Enrollment Form.pdf  (depth 1)
+    WeeklyMealPlanning_8.5x11.pdf  (depth 1)
+    Werner - Can Banks Create Money out of Nothing..pdf  (depth 1)
+    Wheat Letter Rise Day 3_18_'26 (1).pdf  (depth 1)
+    _Form 108 - Application For Missouri Title and License.pdf  (depth 1)
+
+Current directory: c:\Users\isabe\Downloads
+
+Subdirectories:
+ - AirportDBExport.sql
+ - BCK41GP01
+ - BCK41GP02
+ - betterercanvas-main
+ - CSCI-2560 Extra Automata Material complete
+ - DRM Free Music
+ - iCloud Photos
+ - iCloud Photos (1)
+ - iCloud Photos (3)
+ - iCloud Photos (4)
+ - iCloud Photos (5)
+ - iCloud Photos (6)
+ - isabel.kliethermes@gmail.com.ical
+ - MicrosoftEdgeDropFiles
+ - OH@BC
+ - Songs For Car
+ - Sorts
+ - Speed-Test-main
+
+Executable files:
+ * (0SQ57)-ApplicationDocuments.zip
+ * 1 2 - Introduction to Geography.pptx
+ * 1098-T_2025.pdf
+ * 2025 Room Draw Numbers Numerical.pdf
+ * 2025 Room Draw Numbers Numerical.xlsx
+ * 2026 Room Draw Numbers Numerical.pdf
+ * 3 4 - Techniques of Geographic Analysis.pptx
+ * 33 Herb Cards.pdf
+ * 5 6 - Introduction to World Regional Geography WTC FALL 2024.pptx
+ * 50_Remedies_for_Everyday_Health.pdf
+ * 51056413-beae-461e-b98e-76f48fe7e271.jpg
+ * 58.pdf
+ * a review sheet 2.docx
+ * action and agency in AI.pdf
+ * AirportDBExport.sql.zip
+ * AJClassicInstaller.exe
+ * Anslem.pdf
+ * apache-maven-3.9.12-bin.zip
+ * Apache-NetBeans-27.exe
+ * aquinas paper topic.docx
+ * Astro_W15_LAB_12_Human_Exploration_blank.xlsx
+ * ASUS_MB_series_driver_Win7_8.1_10_11.exe.zip
+ * Bank of England - Money Creation in the Modern Economy.pdf
+ * BC2025_W2.pdf
+ * benedictine-college-student-handbook.pdf
+ * Benefit Summary Letter.pdf
+ * betterercanvas-main.zip
+ * better_canvas-5.7.5.xpi
+ * Big_Health___Nutrition_Bundle_Mystery_Box.pdf
+ * BinarySearchTree.java
+ * bomgar-rep-installer.exe
+ * brooks_64bit.exe
+ * Chapter 11 Solutions_No Formulae.xlsm
+ * Chapter 11 Worksheets.xlsm
+ * Chapter 12 Solutions_No Formulae.xlsm
+ * Chapter 12 Worksheets.xlsm
+ * Chapter 2 and 3 and 5 Worksheets.xlsx
+ * Chapter 2 Problem 3.xlsx
+ * Chapter 2 Solutions_No Formulae.xlsx
+ * Chapter 3 Solutions_No Formulae.xlsx
+ * Chapter 4 Solutions_No Formulae.xlsx
+ * Chapter 4 Worksheets.xlsx
+ * Chapter 5 Solutions_No Formulas.xlsx
+ * Chapter 5 Worksheets with Iteration.xlsm
+ * Chapter 7 Solutions_No Formulae.xlsx
+ * Chapter 7 Worksheets.xlsx
+ * Chapter 8 Solutions_No Formulas.xlsm
+ * Chapter 8 Worksheets.xlsx
+ * Chapter 9 Solutions_No Formulae.xlsm
+ * Chapter 9 Worksheets.xlsm
+ * Chapter04A_Slides.pdf
+ * Chapter04B_Slides.pdf
+ * Chapter_1__export.zip
+ * cijpfdp_2108b.exe
+ * cisco-secure-client-win-5.0.02075-core-vpn-webdeploy-k9.msi
+ * CS3570_Exam2_Review_Booklet.pdf
+ * CSCI-1010 Slides 2025-09-22.pptx
+ * CSCI-2560 Extra Automata Material complete.zip
+ * CSCI-2560 grade template.xlsx
+ * CSCI-3500 Exam 1 Handout.pdf
+ * CSCI-3500 Exam 1 Review.pdf
+ * CSCI-3500 Homework 9 book.pdf
+ * CSCI-3500 Homework 9.pdf
+ * CSCI-3500 Solutions to In-Class Problems.pptx
+ * CSCI-3570 Exam 1 Review corrected.pdf
+ * CSCI-3570 Exam 2 Review.pdf
+ * CSCI-3570 Exam 3 Review.pdf
+ * CSCI-3570 Homework 2.pdf
+ * CSCI-3570 Homework 5-1.pdf
+ * CSCI-3570 Slides 2025-09-03.pptx
+ * CSCI-3570 Slides 2025-10-13.pptx
+ * CSCI4200HW1solutions.pdf
+ * CSCI4200HW2solutions.pdf
+ * CSIKC_InternshipTrip_Flyer V4 (2).pdf
+ * CVLOX Historical Data.csv
+ * DailySchedule_8.5x11_300ppi.pdf
+ * decode1.c
+ * decode1.s
+ * desktop.ini
+ * EAA in class.xlsx
+ * edgedriver_win64.zip
+ * Exam2Book.pdf
+ * Fall 2025 Spring 2026 (1).zip
+ * Fall 2025 Spring 2026.zip
+ * Fergusson - When Money Dies (short).pdf
+ * ffmpeg-8.0.1-essentials_build.zip
+ * Financial Analysis with Microsoft Excel 9th Edition – PDF ebook.pdf
+ * FINC 4650 Final Exam (Template No Formulae).xlsx
+ * FNILX Historical Data.csv
+ * FormattedAnswers.txt
+ * Fw_ Spring Career Expo.zip
+ * GEOG 1303 ACTIVITY SELECTOR FORM.docx
+ * GEOG 1303 REGION STATE INFO LOG.xlsx
+ * GLOBAL MAP.gif
+ * GradesDB.sql
+ * HardComputerCaseReturnLabel.pdf
+ * Healthy_Herbs_and_Their_Benefits.pdf
+ * Herbal Healing Handbook.pdf
+ * Herbal_Healing___Plant_Study_Workbook.pdf
+ * Herbs_and_Essential_Oils_Journal_(1).pdf
+ * HippaCoC.pdf
+ * Honors Project Presentation Guidelines.docx
+ * Honors Project Status Form - Due Nov. 15th of Junior Year (1).docx
+ * honors scholarship form- current.docx
+ * Hulsmann - Ethics of Money Production.pdf
+ * HW 4 Assumptions.docx
+ * HW 5 key.xlsx
+ * hw5.txt
+ * hw8.pdf
+ * iCloud Photos (1).zip
+ * iCloud Photos (2).zip
+ * iCloud Photos (3).zip
+ * iCloud Photos (4).zip
+ * iCloud Photos (5).zip
+ * iCloud Photos (6).zip
+ * iCloud Photos.zip
+ * IMG_0822.JPEG
+ * IMG_4791.JPEG
+ * IMG_7104.JPEG
+ * InstallationLog.txt
+ * Internet connection monitoring _ ICMDellDM3.xlsx
+ * Internet connection monitoring _ ICMDellPM2.xlsx
+ * Internet connection monitoring _ ICMDellPM3.xlsx
+ * Internet_connection_log_ICM.csv
+ * Isabel Kliethermes - Referral Leter.pdf
+ * isabel.kliethermes@gmail.com.ical.zip
+ * ITHIPPA.pdf
+ * jre-8u461-windows-x64.exe
+ * Kliethermes_Isabel_2123994_1_15_2026.pdf
+ * Kliethermes_Isabel_2123994_1_22_2025.pdf
+ * Kliethermes_Isabel_2123994_3_3_2026.pdf
+ * Kliethermes_Isabel_2123994_7_14_2025.pdf
+ * Kliethermes_Isabel_2123994_9_15_2025.pdf
+ * Kliethermes_Isabel_2123994_9_5_2025.pdf
+ * lab2 (1).c
+ * lab2.c
+ * lab3.zip
+ * lab4.zip
+ * lab5.zip
+ * lab8.zip
+ * lab9.zip
+ * Letter of Reference Isabel.pdf
+ * Letter.pdf
+ * Life Reader - K. M. Shea.epub
+ * LPP Manager - Job Description.docx
+ * magic_todo (1).goblin
+ * Malkiel - A Random Walk Down Wall Street.pdf
+ * map-of-viking-exploration-8th-11th-century-14067.png
+ * Master Sheet for Class Project #1 - Spring 2025-3.xlsx
+ * Master Sheet for Class Project #2 - Spring 2025 - Updated.xlsx
+ * Master Sheet for Class Project #2 - Spring 2025.xlsx
+ * McCall - The Church and the Usurer (Complete) (1).pdf
+ * McCall - The Church and the Usurer (Complete).pdf
+ * Media (1).jpg
+ * Media (2).jpg
+ * Media (3).jpg
+ * Media (4).jpg
+ * Media.jpeg
+ * Media.jpg
+ * Medicinal_Herbs_Cheat_Sheet.pdf
+ * Memo #5 - Bond Ladder.xlsx
+ * Memo #5 Instructions - Bond Selections-1.pdf
+ * Memo #5 Sample COSTCO Bond Page.pdf
+ * Memo #9 Instructions - Fitness Manual.pdf
+ * mig_-win-3_6_4a-ea31_2.exe
+ * mp68-win-mx920-1_01-ea32_2.exe
+ * MS-102_ Implementing a Microsoft 365 Tenant.pdf
+ * MS-102_ Managing Users & Groups.pdf
+ * msys2-x86_64-20241208.exe
+ * My Awards - Benedictine College Student Application.pdf
+ * My Awards - Benedictine College Student Application2324.pdf
+ * My Awards - Benedictine College Student Application2425.pdf
+ * mysql-connector-j-9.5.0.zip
+ * mysql-workbench-community-8.0.43-winx64.msi
+ * Natural Healing Handbook.pdf
+ * Network Mapping Assignment Drawing Student.pptx
+ * Norse.jpg
+ * Operating System Concepts Essentials, 2nd Edition.pdf
+ * Oresme - De Moneta only - English - New Print Copy.pdf
+ * Origami PowerPoint PDF.docx
+ * Origami PowerPoint PDF.pdf
+ * original-E4082457-DB4F-4017-B315-426C6A726AF5.jpeg
+ * pawsom.png
+ * pearson.pdf
+ * Peer Group and growth rates.xlsx
+ * Photos-1-001 (1).zip
+ * Photos-1-001 (2).zip
+ * Photos-1-001.zip
+ * Print_bunny.pdf
+ * Profile.pdf
+ * Project #2 Instructions.pdf
+ * ProtonVPN_v4.3.1_x64.exe
+ * QRCode for Sticker Submissions.png
+ * Reader - Hulsmann - Ethics of Money Production - Spring 2025 - PDF Copy.pdf
+ * Resume Template 2.docx
+ * Re_ Interest in the Wealth Management Position.eml
+ * RMILab.zip
+ * rogerssticker.jpg
+ * roomandboard2027.pdf
+ * Rothbard - Mystery of Banking (VI-VII).pdf
+ * RStudio-2026.01.2-418.exe
+ * S26 Master Expo List.pdf
+ * sakila-db.zip
+ * Screenshot_11-3-2025_12234_finance.yahoo.com.jpeg
+ * selenium-java-4.40.0.zip
+ * Send_Flowers.zip
+ * Signals Quiz Student.docx
+ * SlideSet1 CorporateFall25.pptx
+ * Sorts.mp4
+ * Speed-Test-main.zip
+ * SQLiteStudio-3.4.17-windows-x64-installer.exe
+ * St. Patrick (1).png
+ * State Shape Info PPT.pptx
+ * sticker (1).png
+ * sticker.png
+ * StickerOrderSummary52511060005.pdf
+ * Superstore.csv
+ * SupportAssistInstaller.exe
+ * table_data.xlsx
+ * Temtransscript.png
+ * Test 1 Fall23.docx
+ * Test 1 Fall24.docx
+ * Testing.csv
+ * THCGX Historical Data.csv
+ * The Honors Project Proposal.pdf
+ * thorn1099B2025.pdf
+ * UM2025_W2.pdf
+ * UN GEOSCHEME STATES SORTED.xlsx
+ * Untitled presentation.pptx
+ * Updated Club list for 2025 - Sheet1.pdf
+ * VA Enrollment Form (1).pdf
+ * VA Enrollment Form.pdf
+ * Vikings - SlidesforEducation.pptx
+ * VirtualBox-7.2.0-170228-Win.exe
+ * vlc-3.0.23-win64.exe
+ * VWALX Historical Data.csv
+ * WeeklyMealPlanning_8.5x11.pdf
+ * wepa_Print_App.x64.msi
+ * Werner - Can Banks Create Money out of Nothing..pdf
+ * Wheat Letter Rise Day 3_18_'26 (1).pdf
+ * xp68-win-mx920-5_65-ejs.exe
+ * _Form 108 - Application For Missouri Title and License.pdf
+ * ~$Chapter 2 Solutions_No Formulae.xlsx
+ * ~$CSCI-3500 Solutions to In-Class Problems.pptx
+ * ~$EAA in class.xlsx
+ * ~$st 1 Fall24.docx
+
+Options:
+ 1. Enter a subdirectory name
+ 2. Go back one level
+ 3. Execute a file
+ 4. Find all PDFs in this directory and subdirectories
+ 5. Follow a folder path
+ 6. Quit
+Choose an option: 
